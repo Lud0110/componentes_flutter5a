@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class _InputsState extends StatefulWidget {
-  const _InputsState({super.key});
+class Inputs extends StatefulWidget {
+  const Inputs({super.key});
 
   @override
-  State<_InputsState> createState() => __InputsStateState();
+  State<Inputs> createState() => __InputsState();
 }
 
-class __InputsStateState extends State<_InputsState> {
+class __InputsState extends State<Inputs> {
   @override
   Widget build(BuildContext context) {
     return const Placeholder();

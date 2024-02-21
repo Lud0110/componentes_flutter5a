@@ -5,7 +5,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 class AppTheme{
    //constaten de color primario 
-  static const primaryColor =Color.fromARGB(255, 41, 15, 46);
+  static const primaryColor =Color.fromARGB(255, 148, 53, 167);
   //color constate del,color secundario
   static const secondaryColor = Color.fromARGB(255, 41, 15, 16);
   //constate del,color de fondo
